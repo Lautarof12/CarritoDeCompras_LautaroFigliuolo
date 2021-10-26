@@ -1,0 +1,14 @@
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\bin\Debug\Desafio carrito de compras.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 10\Desafio carrito de compras\obj\Debug\Desafio carrito de compras.pdb
